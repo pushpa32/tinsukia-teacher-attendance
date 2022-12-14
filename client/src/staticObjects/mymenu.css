@@ -1,0 +1,12 @@
+.mymenu{
+    justify-content:center;
+    background:#f9e21d;
+    position:sticky;
+    z-index:16;
+    top:0;
+}
+
+.mymenulink{
+    font-weight: 800;
+    color:white;
+}

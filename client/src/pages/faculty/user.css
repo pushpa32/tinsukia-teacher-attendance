@@ -1,0 +1,54 @@
+.profile-edit-box{
+    width: 100%;
+    max-width: 100%;
+    background-color: aliceblue;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px #000;
+}
+
+.header-profile-edit {
+    background-color: rgb(19, 71, 129);
+    color: rgb(251, 251, 251);
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    -webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.678);
+    -moz-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.678);
+    box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.678);
+}
+
+.edit-checkbox {
+    background-color: rgb(19, 71, 129);
+    color: rgb(251, 251, 251);
+     -webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.678);
+    -moz-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.678);
+    box-shadow: 0 6px 6px -3px rgba(0, 0, 0, 0.678);
+}
+
+:where(.css-dev-only-do-not-override-qxipo4).ant-input-disabled, :where(.css-dev-only-do-not-override-qxipo4).ant-input[disabled] {
+   color:  rgb(0 0 0 / 61%);
+}
+
+@media screen and (max-width: 600px) {
+   .header-profile-edit {
+    background-color: rgb(19, 71, 129);
+    color: rgb(251, 251, 251);
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    -webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.678);
+    -moz-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.678);
+    box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.678);
+}
+}

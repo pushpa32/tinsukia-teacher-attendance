@@ -1,0 +1,23 @@
+.logo{
+    width: 200px;
+    max-width:100%;
+}
+
+.avatar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0;
+    flex-direction: column;
+    padding:0 5px;
+}
+
+.avatar img{
+    background:#808080;
+    padding:4px;
+    width: 120px;
+    aspect-ratio: 1;
+    max-width:100%;
+    border-radius:50%;
+}

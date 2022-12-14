@@ -1,0 +1,18 @@
+.loginPage{
+    width:100vw;
+    /* background:linear-gradient(117deg,#d15de9,#4e1876); */
+   background: linear-gradient(18deg,#4355e2,#632685,#5d276d);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    
+}

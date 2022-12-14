@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.769fb7fb.css",
+    "main.js": "/static/js/main.657c2de9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/error1.jpg": "/static/media/error1.a11b1f1b097ab8e61c94.jpg",
+    "static/media/tinsukia.png": "/static/media/tinsukia.6f223690d40c0c40c3ca.png",
+    "static/media/registerOut.png": "/static/media/registerOut.afd863fc0988d47b60b0.png",
+    "static/media/registerIn.png": "/static/media/registerIn.724155dc236bd8912b6d.png",
+    "index.html": "/index.html",
+    "main.769fb7fb.css.map": "/static/css/main.769fb7fb.css.map",
+    "main.657c2de9.js.map": "/static/js/main.657c2de9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.769fb7fb.css",
+    "static/js/main.657c2de9.js"
+  ]
+}
